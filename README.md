@@ -6,7 +6,7 @@
 
 ## 介绍
 
-![image-20230225125138306](D:\Data\Typora_images\image-20230225125138306.png)
+![strategy](imgs\strategy.png)
 
 1. 基于分钟级OHLCV数据计算因子，因子的构建方法如下：
 
@@ -42,7 +42,7 @@
 
 4. 在历史区间上回测，得到回测效果。
 
-   ![image-20230225125620815](D:\Data\Typora_images\image-20230225125620815.png)
+   ![test](imgs\test.png)
 
 ## 使用
 
