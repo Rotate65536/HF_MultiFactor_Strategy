@@ -6,7 +6,7 @@
 
 ## 介绍
 
-![strategy](imgs\strategy.png)
+![strategy](https://raw.githubusercontent.com/Rotate65536/HF_MultiFactor_Strategy/master/imgs/strategy.png)
 
 1. 基于分钟级OHLCV数据计算因子，因子的构建方法如下：
 
@@ -42,7 +42,7 @@
 
 4. 在历史区间上回测，得到回测效果。
 
-   ![test](imgs\test.png)
+   ![test](https://raw.githubusercontent.com/Rotate65536/HF_MultiFactor_Strategy/master/imgs/test.png)
 
 ## 使用
 
